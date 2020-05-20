@@ -2,7 +2,8 @@
 aubo robot c++ sdk example
 
 ## build step
-  1. mkdir build
-  2. cd build
-  3. cmake ..
-  4. make
+  1. cd src
+  2. mkdir build
+  3. cd build
+  4. cmake ..
+  5. make
